@@ -31,44 +31,45 @@ Javascript is the primary programming language in the project.
 1. What is the development environment, and how hard is it to download and
 install it? Is it easy to find information about this?
 
-Downloading the environment is very easy. You can find their installation steps on [https://jupyter.readthedocs.io/en/latest/install.html]. There are 2 ways to install it, either install Anaconda (which also install Jupyter Notebook as well) or if your an experienced Python user you can just use **pip3 install jupyter**.
+    Downloading the environment is very easy. You can find their installation steps on [https://jupyter.readthedocs.io/en/latest/install.html]. There are 2 ways to install it, either install Anaconda (which also install Jupyter Notebook as well) or if your an experienced Python user you can just use **pip3 install jupyter**.
 <br><br><br><br><br>
 
 1. Does the project depend on external additional software modules such as
 database,  graphics, web development, or other libraries?
 
-You need to download Python before working with Jupyter Notebook.
+    You need to download Python before working with Jupyter Notebook.
 <br><br><br><br><br>
 
 1. Is the code easy to understand?
-If you are versed in javascript and python then the code is fairly easy to understand.
+
+    If you are versed in javascript and python then the code is fairly easy to understand.
 <br><br><br><br><br>
 
 1. How many lines of code are there in total?
 
-100,982 lines of codes
+    100,982 lines of code
 <br><br><br><br><br>
 
 1. When was this project first started?
 
-The project started around April 2015.
+    The project started around April 2015.
 <br><br><br><br><br>
 
 1. Does it have a stable release yet?
 
-Yes, Jupyter Notebook has stable releases.
+    Yes, Jupyter Notebook has stable releases.
 <br><br><br><br><br>
 
 1. Does the repository have tests? Can they be run?
 
-Yes, the repository has test scripts that can be run.
+    Yes, the repository has test scripts that can be run.
 <br><br><br><br><br>
 
 
 1. Does this project have a history of vulnerabilities in the National
 Vulnerability Database [https://nvd.nist.gov/](https://nvd.nist.gov/)?
 
-Yes this project has a history of vulnerabilities in the National Vulnerablitity Database.
+    Yes this project has a history of vulnerabilities in the National Vulnerablitity Database.
 <br><br><br><br><br>
 
 ---
