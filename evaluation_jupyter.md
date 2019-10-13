@@ -16,7 +16,7 @@ In most repositories there will be a file named LICENSE or something similar in
 the root level of the repository. This is the one to examine. There may be
 different licenses on specific files, but the project will have a main license.
 
-This project is licensed under the terms of the Modified BSD License.
+    This project is licensed under the terms of the Modified BSD License.
 <br><br><br><br><br>
 ---
 
@@ -25,7 +25,7 @@ This project is licensed under the terms of the Modified BSD License.
 
 1. What is the primary programming language in the project?
 
-Javascript is the primary programming language in the project.
+    Javascript is the primary programming language in the project.
 <br><br><br><br><br>
 
 1. What is the development environment, and how hard is it to download and
