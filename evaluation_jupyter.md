@@ -1,9 +1,9 @@
-**Project Name**:
+**Project Name**: Jupyter Notebook
 
 
 ---
 
-**Evaluating Person or Team**:
+**Evaluating Person or Team**: Amal Mittal
 
 
 ---
@@ -15,6 +15,8 @@
 In most repositories there will be a file named LICENSE or something similar in
 the root level of the repository. This is the one to examine. There may be
 different licenses on specific files, but the project will have a main license.
+
+This project is licensed under the terms of the Modified BSD License.
 <br><br><br><br><br>
 ---
 
