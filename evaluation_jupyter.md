@@ -169,26 +169,38 @@ Use the same method as you did for the issues.
 ### Welcomeness
 
 1. Is there a CONTRIBUTING document?
+
+    Yes 
 <br><br><br><br><br>
 
 
 1. Is there a CODE OF CONDUCT document?
+
+    No
 <br><br><br><br><br>
 
 
 1. Do the maintainers respond helpfully to questions in issues? Are responses generally constructive?
+
+    Questions are generally answered swiftly and with constructive responces.
 <br><br><br><br><br>
 
 
 1. Are people friendly in the issues, discussion forum, and chat?
+
+    Yes, it seems like everyone in the issues and forum are friendly and appreciative.
 <br><br><br><br><br>
 
 
 1. Do pull requests get reviewed?
+
+    Yes, pull requests are thoroughly reviewed and maintainers ask for changes in the request. 
 <br><br><br><br><br>
 
 
 1. Do maintainers thank people for their contributions?
+
+    Yes, almost all the contributions are appreciated by the maintainers.
 <br><br><br><br><br>
 
 
