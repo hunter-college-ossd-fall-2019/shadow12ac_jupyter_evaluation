@@ -76,10 +76,14 @@ Vulnerability Database [https://nvd.nist.gov/](https://nvd.nist.gov/)?
 
 ### Documentation
 1. Is there clear documentation in the code itself?
+
+    The code is not documented well.
 <br><br><br><br><br>
 
 
 1. Is there documentation about the design?
+
+    Yes, they have a link to a pdf for documentation for the design.
 <br><br><br><br><br>
 
 
