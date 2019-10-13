@@ -94,37 +94,54 @@ Vulnerability Database [https://nvd.nist.gov/](https://nvd.nist.gov/)?
 
 
 1. How frequently do people commit?
-Compute the number of commits per week for the past twelve weeks.
+Compute the number of commits per week for the past twelve weeks?
+
+    People are frequently commiting. In the past 12 weeks there were 168 commits made.
 <br><br><br><br><br>
 
 1. How many issues are currently open?
+
+    There is 1550 open issues right now.
 <br><br><br><br><br>
 
 1. How long do issues stay open?
 Take the ten most recently closed issues and look at when each was first reported.
 Compute the number of days that each was open and take the average.
+
+    The issues stay open for an average of 2 days.
 <br><br><br><br><br>
 
 1. Is there active discussion on the issues?
+   
+   Yes, there is active discussion and helpful comments by the maintainers.
 <br><br><br><br><br>
 
 1. Are issues tagged as easy, hard, etc.?
+
+    Yes, many issues have tags on them.
 <br><br><br><br><br>
 
 1. Are they triaged?
+
+    No, issues are not triaged.
 <br><br><br><br><br>
 
 1. How many issues were closed in the past six months?
+
+    About 70 issues were closed in the past six months.
 <br><br><br><br><br>
 
 
 1. When was the last commit?
+
+    The last commit was done on Wednesday, October 9.
 <br><br><br><br><br>
 
 1. How many people are maintaining the project?
 <br><br><br><br><br>
 
 1. How many contributors has the project had in the past year?
+
 <br><br><br><br><br>
 
 
