@@ -138,31 +138,45 @@ Compute the number of days that each was open and take the average.
 <br><br><br><br><br>
 
 1. How many people are maintaining the project?
+
+    405 contributors
 <br><br><br><br><br>
 
 1. How many contributors has the project had in the past year?
+
+31 contributors in the past year.
 
 <br><br><br><br><br>
 
 
 1. How many open pull requests are there?
+
+    84 open pull requests
 <br><br><br><br><br>
 
 1. How long are pull requests remaining un-answered?
 Look at the closed pull requests to see how long they stayed open.
 Take the ten most recently closed ones and look at when each was first reported.
 Compute the number of days that each was open and take the average.
+
+An average of 5 days.
 <br><br><br><br><br>
 
 1. Is there active discussion on the pull requests?
 Use the same method as you did for the issues.
+
+Yes there is actuve discussion on the pull requests. Maintainers give helpful comments and ask for changes before merging.
 <br><br><br><br><br>
 
 1. How many pull requests were opened within the past month?
+
+7 pull requests were opened.
 <br><br><br><br><br>
 
 
 1. How recently were any pull requests accepted and merged?
+
+the most recent pull request that was accepted and merged was done 5 days ago.
 <br><br><br><br><br>
 
 ---
@@ -206,3 +220,4 @@ Use the same method as you did for the issues.
 
 ### Summary
 
+    The project's community is very kind and helpful. The maintainers are give contructive responces for the issues and pull requested posted. The project is very active and welcoming to new contributors.
